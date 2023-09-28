@@ -1,0 +1,41 @@
+
+1. Website:
+   - A website is a collection of related web pages and multimedia content that
+     are typically organized under a common domain name or URL (Uniform Resource
+     Locator). Websites can serve various purposes, such as providing information,
+     offering services, or hosting online applications.
+
+2. Webpage:
+   - A webpage is a single document or resource on the World Wide Web. It's 
+    typically written in HTML (Hypertext Markup Language) and can include text,
+    images, links, multimedia, and other elements. A website is composed of 
+    multiple webpages that are linked together.
+
+3. Web Browser:
+   - A web browser is a software application that allows users to access and 
+    view web content on the internet. It interprets HTML documents and renders
+    them as visually formatted webpages. Popular web browsers include Google 
+    Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+
+4. Web Server:
+   - A web server is a computer or software application that stores and serves
+     web content to users over the internet. It responds to requests from web 
+    browsers by sending the requested webpages or resources. Web servers use
+    various protocols, such as HTTP (Hypertext Transfer Protocol), to facilitate
+    communication between clients (web browsers) and the server.
+
+5. HTML (Hypertext Markup Language):
+   - HTML is the standard markup language used to create webpages. It consists
+   of a set of tags and elements that define the structure and content of 
+   a webpage. HTML allows you to format text, insert images, create hyperlinks,
+   and structure information using elements like headings, paragraphs, lists,
+   and more.
+
+6. CSS (Cascading Style Sheets):
+   - CSS is a stylesheet language used in web development to control the 
+   presentation and layout of HTML documents. It separates the content (HTML)
+   from the presentation (CSS), allowing web developers to apply styles, 
+   such as colors, fonts, spacing, and positioning, to web elements. CSS 
+   enables the customization and styling of webpages, making them visually 
+   appealing and responsive.
+
